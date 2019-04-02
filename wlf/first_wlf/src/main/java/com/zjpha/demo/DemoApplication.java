@@ -20,7 +20,7 @@ public class DemoApplication {
 	}
 	
 	
-	@RequestMapping("/hello")
+	@RequestMapping("/hello2222")
 	public String hello1()
 	{
 		return "1.html";
